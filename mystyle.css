@@ -1,0 +1,35 @@
+.imgaes {
+    height:200px;
+    width:200px;
+}
+body {
+    background-color: gray
+
+}
+.Iam {
+      font-family: 'Monsieur La Doulaise', cursive;
+font-family: 'Montserrat', sans-serif;
+    color: black;
+    font-size: 25px;
+}
+h1 {
+font-family: 'Monsieur La Doulaise', cursive;
+font-family: 'Montserrat', sans-serif;
+font-family: 'Roboto', sans-serif;
+    color: maroon;
+}
+.colorSkills {
+    font-size:18px;
+    color: maroon;
+    font-family: 'Monsieur La Doulaise', cursive;
+font-family: 'Montserrat', sans-serif;
+}
+.skillsfonts {
+      font-family: 'Monsieur La Doulaise', cursive;
+font-family: 'Montserrat', sans-serif;
+font-size: 23px;
+}
+
+p{
+    font-size: 23px;
+}
