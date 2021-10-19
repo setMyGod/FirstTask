@@ -8,11 +8,19 @@
     column-gap: 20px;
 
 }
-.con2{
+
+.first{
+  flex-direction: column;
+
+}
+.second{
     display: flex;
-    row-gap: 20px;
     column-gap: 20px;
-    display: flex;
+}
+.thirt{
+    align-self: end;
+
+
 }
 .box{
     width: 200px;
@@ -48,9 +56,9 @@
 }
 
 .J{
-    height: 600px;
     background-color: lightpink;
-    margin-left: 140px;
-    margin-bottom: 1px;
+
 
 }
+
+
